@@ -1,0 +1,9 @@
+# Emscripten source files
+emsdk/
+
+# NPM files
+node_modules/
+package-lock.json
+
+# Lua source files
+/workspaces/Polytoria-Web/lua
